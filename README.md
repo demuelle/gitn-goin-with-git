@@ -4,3 +4,6 @@
 
 My Demo Repository for class
 Look!
+# README
+The maps api will support GET POST PUT and DELETE.
+Here's a link... <a href="https:///www.google.com" target="_blank">Google</a> ... with an empty target
